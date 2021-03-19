@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<a href="https://github.com/Cr-vx/github-stats">
+  
+![](https://github.com/Cr-vx/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Cr-vx/github-stats/blob/master/generated/languages.svg)
+</a>
 <!--
 **Cr-vx/Cr-vx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
