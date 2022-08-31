@@ -1,9 +1,9 @@
-<a href="https://github.com/cr-vx/github-stats">
+<p> <a href="https://github.com/cr-vx/github-stats">  
 
 ![](https://raw.githubusercontent.com/cr-vx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/cr-vx/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/cr-vx/github-stats/master/generated/languages.svg#gh-dark-mode-only)  
 
-</a>
+</a></p>
 
 <!--
 **Cr-vx/Cr-vx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
